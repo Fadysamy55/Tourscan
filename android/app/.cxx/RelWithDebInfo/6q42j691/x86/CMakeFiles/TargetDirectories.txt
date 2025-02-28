@@ -1,0 +1,2 @@
+C:/Users/Fady/AndroidStudioProjects/test_ali/android/app/.cxx/RelWithDebInfo/6q42j691/x86/CMakeFiles/edit_cache.dir
+C:/Users/Fady/AndroidStudioProjects/test_ali/android/app/.cxx/RelWithDebInfo/6q42j691/x86/CMakeFiles/rebuild_cache.dir

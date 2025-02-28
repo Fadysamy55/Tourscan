@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "877168834366",
+    "project_id": "tourscan",
+    "storage_bucket": "tourscan.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:877168834366:android:ba07f762d24fe37b0c9e6f",
+        "android_client_info": {
+          "package_name": "com.example.test_ali"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAjyDwgNqV9wkm0xr0A5BqS_K02UJXQ9cU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
